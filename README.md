@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Followers-30.5K-181717?style=for-the-badge&logo=tiktok&logoColor=white" alt="Followers"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Followers-30.5K-181717?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Backend_%26_Systems-181717?style=for-the-badge&logo=codeforces" alt="Focus"></a>
 </p>
 
