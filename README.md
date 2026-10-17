@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Followers-30.5K-181717?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a>
+  <a href="https://github.com/yentheterrible"><img src="https://img.shields.io/badge/Followers-30.5K-181717?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Backend_%26_Systems-181717?style=for-the-badge&logo=codeforces" alt="Focus"></a>
 </p>
 
@@ -34,4 +34,6 @@
 ```text
 ├── core_languages  : Python, JavaScript, TypeScript, Luau, C#, Rust
 ├── specialization  : Web Development, Backend Systems, REST APIs, Automation
+├── discord         : convictedx
+├── email           : yenthet3rrible@gmail.com
 └── tooling         : Git, Docker, VSCode
