@@ -11,13 +11,28 @@
 
 <p align="center">
   <a href="https://github.com/yentheterrible"><img src="https://img.shields.io/github/followers/yentheterrible?style=for-the-badge&color=181717&logo=github" alt="Followers"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Building-181717?style=for-the-badge&logo=statuspage" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TikTok_Main-16.9K-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Main"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TikTok_Alt-13.6K-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Alt"></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Backend_%26_Systems-181717?style=for-the-badge&logo=codeforces" alt="Focus"></a>
 </p>
 
 ---
 
-### ⚡ Overview & Stack
+### 💻 Technologies & Ecosystem
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,lua,cs,rust,html,css,tailwind,nodejs,express,fastapi,postgres,sqlite,redis,mongodb,git,docker,vscode,discord,github,postman&perline=11" />
+  </a>
+</p>
+
+- **Languages:** Python • JS/TS • Lua • C# • Rust • HTML/CSS
+- **Development:** Web Development • Full-Stack • Backend Systems • RESTful APIs • WebSockets
+- **Specializations:** Automation Utilities • Discord Bots • Metamethod Hooks • Scripting • Software Architecture
+
+---
+
+### ⚡ Overview
 
 ```text
 ├── core_languages  : Python, JavaScript, TypeScript, Luau, C#, Rust
