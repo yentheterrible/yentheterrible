@@ -5,7 +5,7 @@
 <h1 align="center">yen</h1>
 
 <p align="center">
-  <b>17-year-old software engineer & systems builder</b><br>
+  <b>software engineer & systems builder</b><br>
   Focused on high-performance backend, automation, systems tools, and web development.
 </p>
 
